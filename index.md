@@ -3,11 +3,25 @@
 layout: default
 ---
 
-# This is a big header
+# Should Comp110 Add a Livestream
 
 <!-- This is a comment. Below, you'll see code for inserting an image. To make this image appear, update <custom-path>. To add an image, save it inside the imgs folder of this repository. -->
 <img src="<custom-path>/static/imgs/logo.png" alt="Image of Comp110 rainbow logo. "  width="500"/>
 
-## This is a small header
+## Summary of analysis
 
-This is basic paragraph text.
+I first created a new object with only the columns
+
+# Results
+
+## Total
+<img src="/Users/lilybertlshofer/comp110-workspace-labertl/personal-site.github.io/static/imgs/output.png" alt="Total count of add_livestream. "  width="500"/>
+
+## Freshman Only
+<img src="static/imgs/fresh.png" alt="Freshman count of add_livestream. "  width="500"/>
+
+## Seniors Only
+<img src="/Users/lilybertlshofer/comp110-workspace-labertl/personal-site.github.io/static/imgs/senior.png" alt="Senior count of add_livestream. "  width="500"/>
+
+## Conclusion:
+Based on my results, I would say that overall people were in favor of adding a livestream. 7, which corresponded with strongly agree was the most common answer by a decent amount. I looked at it based on class to see if freshman and seniors had a different view and found that both groups favored a livestream overall, with the seniors more clearly favoring the addition of one. You could also look at whether different majors were for or against adding a livestream or you could look at multiple years combined. There would likely be a cost to set up the livestream, probably mostly a time cost of someone figuring out how to set it up. Overall, those that did not want the livestream would not be negatively affected as they could simply choose not to use it, but those in favor could benefit from having one.
