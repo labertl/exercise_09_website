@@ -10,7 +10,7 @@ layout: default
 
 ## Summary of analysis
 
-I first created a new object with only the columns
+I first created a new object with only the columns that I needed. Then, I used the count function to count how many people said each of the possible ranks for add_livestream and created a barplot based on that. I then created a function to pull out only students from a specified year. I used that to pull out Freshman and Senior, then for each I performed the same count function and barplot proceedure. 
 
 # Results
 
